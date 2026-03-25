@@ -77,6 +77,24 @@ Feature categories include:
 - Protocol-specific fields (e.g., MAVLink, DJI SDK)
 
 These features support both binary and multi-class intrusion detection.
+### 📦 Download Options
+
+#### 🟢 Full Dataset (PCAP Files)
+
+If you want **raw network traffic**, download the PCAP files:
+🔗 **https://doi.org/10.6084/m9.figshare.25486462**
+
+* 📡 Packet-level data
+* Suitable for:
+
+  * Network analysis
+  * Packet inspection
+  * Feature extraction
+
+---
+
+
+
 
 ## 📌 Citation
 
